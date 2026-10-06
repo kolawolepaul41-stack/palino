@@ -1,0 +1,2 @@
+# palino
+make go wide
